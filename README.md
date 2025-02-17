@@ -48,7 +48,7 @@ A Babá Eletrônica detecta sons e fornece feedback visual e auditivo sobre o es
 projeto-baba-inteligente/
 ├── CMakeLists.txt        # Configuração do CMake
 ├── display_oled.c        # Código principal
-├── src/
+├── inc/
 │   ├── ssd1306.h        # Header do display OLED
 │   ├── ssd1306.c        # Driver do display OLED
 └── README.md            # Documentação do projeto
